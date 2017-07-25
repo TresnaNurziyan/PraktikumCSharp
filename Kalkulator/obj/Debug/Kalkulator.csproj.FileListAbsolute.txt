@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Kalkulator\obj\Debug\Kalkulator.pdb

@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csprojResolveAssemblyReference.cache
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb

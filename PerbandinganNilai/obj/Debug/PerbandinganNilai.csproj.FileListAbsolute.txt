@@ -1,0 +1,5 @@
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\PerbandinganNilai\bin\Debug\PerbandinganNilai.exe.config
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\PerbandinganNilai\bin\Debug\PerbandinganNilai.exe
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\PerbandinganNilai\bin\Debug\PerbandinganNilai.pdb
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\PerbandinganNilai\obj\Debug\PerbandinganNilai.exe
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\PerbandinganNilai\obj\Debug\PerbandinganNilai.pdb

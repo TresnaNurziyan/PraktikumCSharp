@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\bin\Debug\BangunRuangThread.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\bin\Debug\BangunRuangThread.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\bin\Debug\BangunRuangThread.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\obj\Debug\BangunRuangThread.csprojResolveAssemblyReference.cache
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\obj\Debug\BangunRuangThread.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\BangunRuangThread\obj\Debug\BangunRuangThread.pdb

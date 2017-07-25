@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\bin\Debug\ThreadDownload.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\bin\Debug\ThreadDownload.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\bin\Debug\ThreadDownload.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\obj\Debug\ThreadDownload.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\obj\Debug\ThreadDownload.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\ThreadDownload\obj\Debug\ThreadDownload.csprojResolveAssemblyReference.cache

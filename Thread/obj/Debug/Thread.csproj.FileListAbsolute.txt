@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\bin\Debug\Thread.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\bin\Debug\Thread.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\bin\Debug\Thread.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\obj\Debug\Thread.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Thread\obj\Debug\Thread.pdb

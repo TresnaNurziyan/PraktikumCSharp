@@ -1,0 +1,6 @@
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\bin\Debug\AccesModifier.exe.config
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\bin\Debug\AccesModifier.exe
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\bin\Debug\AccesModifier.pdb
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\obj\Debug\AccesModifier.csprojResolveAssemblyReference.cache
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\obj\Debug\AccesModifier.exe
+C:\Users\Geeksfarm\Documents\Visual Studio 2015\Projects\AccessModifier\AccesModifier\obj\Debug\AccesModifier.pdb

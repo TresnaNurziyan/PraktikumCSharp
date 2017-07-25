@@ -1,0 +1,5 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\PenambahPengurang\bin\Debug\PenambahPengurang.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\PenambahPengurang\bin\Debug\PenambahPengurang.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\PenambahPengurang\bin\Debug\PenambahPengurang.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\PenambahPengurang\obj\Debug\PenambahPengurang.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\PenambahPengurang\obj\Debug\PenambahPengurang.pdb

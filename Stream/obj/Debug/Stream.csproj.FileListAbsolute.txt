@@ -1,0 +1,6 @@
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\bin\Debug\Stream.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\bin\Debug\Stream.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\bin\Debug\Stream.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\obj\Debug\Stream.csprojResolveAssemblyReference.cache
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\obj\Debug\Stream.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\AccessModifier\Stream\obj\Debug\Stream.pdb
